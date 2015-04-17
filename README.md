@@ -7,13 +7,16 @@ Installer to make working in windows tolerable.
 To do
 ------
 
-* add .bat launcher
-* add java
-* add ant
-* add babun
-* add node
-* add atom
-* add emacs?
-* add netbeans?
-* add eclipse?
-* add intellij?
+Add:
+
+* .bat launcher
+* java
+* ant
+* [babun](http://babun.github.io/)
+* [cmder](http://gooseberrycreative.com/cmder/)
+* node
+* atom
+* emacs?
+* netbeans?
+* eclipse?
+* intellij?
