@@ -1,19 +1,26 @@
 Windows Sugar
 =============
 
-Installer to make working in windows tolerable.
+Installer to download the tools which make working on Windows tolerable, especially for Java & JS development.
+
+To run it, open a command prompt and enter:
+
+    install.bat
+
+Currently downloads:
+
+* [cmder](http://gooseberrycreative.com/cmder/)
 
 
 To do
-------
+-----
 
 Add:
 
-* .bat launcher
+* Some actual, y'know, _installer_ behavior...
 * java
 * ant
 * [babun](http://babun.github.io/)
-* [cmder](http://gooseberrycreative.com/cmder/)
 * node
 * atom
 * emacs?
