@@ -14,6 +14,6 @@ if exist "%downloadDir%\" (
 
 echo "Proceeding..."s
 
-cscript install.vbs
+cscript download.vbs
 
 echo Done!
